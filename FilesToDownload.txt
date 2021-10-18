@@ -1,0 +1,2 @@
+https://HuskyCoder211.github.io/SnowDogGame/bin/assets/
+https://HuskyCoder211.github.io/SnowDogGame/bin/build.jar
