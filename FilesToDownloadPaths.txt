@@ -1,3 +1,4 @@
 /com/snowdogstudios/game/
 /com/snowdogstudios/game/client/
 /com/snowdogstudios/game/client/window/
+/com/snowdogstudios/game/client/renderer/
