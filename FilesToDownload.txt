@@ -1,3 +1,4 @@
 https://HuskyCoder211.github.io/SnowDogGame/bin/Main.class
-https://HuskyCoder211.github.io/SnowDogGame/bin/com/snowdogstudios/game/Client.class
-https://HuskyCoder211.github.io/SnowDogGame/bin/com/snowdogstudios/game/window/Window.class
+https://HuskyCoder211.github.io/SnowDogGame/bin/com/snowdogstudios/game/client/Client.class
+https://HuskyCoder211.github.io/SnowDogGame/bin/com/snowdogstudios/game/client/window/Window.class
+https://HuskyCoder211.github.io/SnowDogGame/bin/com/snowdogstudios/game/client/renderer/RenderJob.class
